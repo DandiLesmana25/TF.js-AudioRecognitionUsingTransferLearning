@@ -1,6 +1,7 @@
-# Basic usgae
+# Basic usage
 
-Make sure your device has a microphone. It's worth noting that this will also work on a mobile phone! To run the webpage, open **index.html** in a browser. If you are working from a local file, to access the microphone you will have to start a web server and use `http://localhost:port/`.
+* Make sure your device has a microphone.
+* It's worth noting that this will also work on a mobile phone! To run the webpage, open **index.html** in a browser. If you are working from a local file, to access the microphone you will have to start a web server and use `http://localhost:port/`.
 
 
 ### Currently, the supported vocabularies are:
